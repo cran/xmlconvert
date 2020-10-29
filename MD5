@@ -1,0 +1,11 @@
+98fb95d9ef28e387216b51dd944782a2 *DESCRIPTION
+7fd92fb6b85294446f118e3007921fd5 *NAMESPACE
+ab10cb7e4a5b92d2962ca7310744f0d9 *NEWS.md
+c5d0c5603c1a336e4b9ada545234b36f *R/xml_convert.r
+1073ace1939c1a1f7fa5460d6b304775 *README.md
+6869d75308456df7cf08284a24371c35 *inst/worldpopulation_attr.xml
+8aaf50e61b4679a5630a068689e82b8c *inst/worldpopulation_tags.xml
+e04954c85841d17138bd82d11da086cd *man/df_to_xml.Rd
+b79670149bd016197dde4c02e2a2435f *man/figures/xmlconvert.png
+9157c6c091ed3ae725667e59e89aee81 *man/xml_to_df.Rd
+612f53093af7948a839c372294952e60 *man/xmlconvert.Rd
