@@ -1,13 +1,13 @@
-66b56f98d5978e292915e6fac6c979e6 *DESCRIPTION
+f9bcf86ff2b0020bed1ba2f18be66c11 *DESCRIPTION
 9556dbfbda41df1487d8e216e3add58a *NAMESPACE
-b893028acf4b110d519a24b93397bd32 *NEWS.md
-4b49334c6f8628a7d7e48737bee6dc46 *R/xml_convert.r
+597f5cc95d5cbda95e3bbc0a22c73ee6 *NEWS.md
+c9799f1fe85a1f6cf7cfee60ddc2fea0 *R/xml_convert.r
 6e73b4376dab50f8a2937c6b38ae4dcf *README.md
 1ee030e89dfaf4657956c44457a2a93e *inst/customers.xml
 6869d75308456df7cf08284a24371c35 *inst/worldpopulation_attr.xml
 8aaf50e61b4679a5630a068689e82b8c *inst/worldpopulation_tags.xml
 e04954c85841d17138bd82d11da086cd *man/df_to_xml.Rd
 b79670149bd016197dde4c02e2a2435f *man/figures/xmlconvert.png
-a0b04bf5a326f91edf6e0e29e992950c *man/xml_to_df.Rd
+cc7a25e1a92b9df38b16ad785c8370fb *man/xml_to_df.Rd
 0dc5e7bc7ffc21255763144e6284358d *man/xml_to_list.Rd
 612f53093af7948a839c372294952e60 *man/xmlconvert.Rd

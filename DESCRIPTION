@@ -6,7 +6,7 @@ Description: Converts XML documents to R dataframes and dataframes to XML docume
   A wide variety of options allows for different XML formats and flexible control
   of the conversion process. Results can be exported to CSV and Excel, if desired. 
   Also converts XML data to R lists.
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: person("Joachim", "Zuckarelli", role = c("aut", "cre"), email = "joachim@zuckarelli.de", comment = c(ORCID="0000-0002-9280-3016"))
 Maintainer: Joachim Zuckarelli <joachim@zuckarelli.de>
 Depends: R (>= 3.5.0)
@@ -20,6 +20,6 @@ Encoding: UTF-8
 ByteCompile: true
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-12-01 20:11:50 UTC; zucka
+Packaged: 2021-03-25 21:01:55 UTC; zucka
 Author: Joachim Zuckarelli [aut, cre] (<https://orcid.org/0000-0002-9280-3016>)
-Date/Publication: 2020-12-01 21:00:02 UTC
+Date/Publication: 2021-03-27 08:10:02 UTC
